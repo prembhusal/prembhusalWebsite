@@ -52,7 +52,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1em;
     color: #0000ff;
-    bottom :0;
+    bottom :1;
     position : fixed;
     width : 70%;
 }
