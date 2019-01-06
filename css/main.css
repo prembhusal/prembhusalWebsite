@@ -51,3 +51,6 @@ ul.posts li {
   margin-right: auto;
   width: 50%;
 }
+img {
+  float: right;
+}
