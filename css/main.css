@@ -46,11 +46,13 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFFFFF;
 }
 b {
     font-size: 1.5em;
     line-height: 1.4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFFFFF;
 }
 li {
@@ -61,6 +63,7 @@ li {
 br {
     font-size: 1.0em;
     line-height: 1.0em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFFFFF;
 }
 footer {
