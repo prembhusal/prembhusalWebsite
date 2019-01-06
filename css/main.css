@@ -56,8 +56,9 @@ b {
     color: #FFFFFF;
 }
 li {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FFFFFF;
 }
 br {
