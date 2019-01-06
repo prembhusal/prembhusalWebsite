@@ -69,6 +69,11 @@ ul.posts li {
   margin-right: auto;
   width: 50%;
 }
+.social-icon {
+ width: 30px;
+ height: 30px;
+ margin: 0 5px;
+}
 img {
   float: right;
   border-radius: 50%;
