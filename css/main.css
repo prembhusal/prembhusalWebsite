@@ -72,7 +72,7 @@ footer {
     font-size: 1em;
     color: #0000ff;
     bottom :0;
-    position : absolute;
+    position : relative;
     width:100%;
     
 }
