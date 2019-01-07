@@ -81,7 +81,7 @@ footer {
 }
 .parallax {
   /* The image used */
-  background-image: url("/img/web.jpg");
+  background-image: white;
 
   /* Set a specific height */
   min-height: 500px; 
