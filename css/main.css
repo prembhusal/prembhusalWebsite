@@ -79,7 +79,19 @@ footer {
    min-height:100%;
    position:relative;
 }
+.parallax {
+  /* The image used */
+  background-image: url("/img/web.jpg");
 
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
