@@ -4,7 +4,7 @@ body {
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 1px;
+    padding: 0px;
     list-style: none;
     font-weight: bold;
     font-size: 1.3em;
