@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    min-height:100%;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -77,7 +76,7 @@ footer {
     width:100%;
     
 }
-#container {
+container {
    min-height:100%;
    position:relative;
 }
